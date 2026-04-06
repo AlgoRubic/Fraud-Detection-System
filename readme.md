@@ -1,27 +1,27 @@
-# 💳 Fraud Detection System
+# Fraud Detection System
 
 A machine learning-based fraud detection system with real-time API deployment using FastAPI. Implemented advanced models including XGBoost and LightGBM for high-performance fraud detection
 
-## 🚀 Features
+## Features
 - Data preprocessing & feature engineering
 - Handles class imbalance
 - Trained ML models (Random Forest)
 - REST API for real-time fraud prediction
 - Modular and scalable architecture
 
-## 🧠 Tech Stack
+## Tech Stack
 - Python, Pandas, NumPy
 - Scikit-learn
 - FastAPI
 - Joblib
 
-## 📊 Workflow
+## Workflow
 1. Data preprocessing
 2. Model training
 3. Evaluation
 4. Deployment via API
 
-## ⚡ Run Locally
+## Run Locally
 
 ```bash
 pip install -r requirements.txt
